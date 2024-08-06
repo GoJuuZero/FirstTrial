@@ -37,7 +37,7 @@ def fz(i, path):
 
 for i in range(5):
     bata = {
-        fz(str(i), fz(str(i), "zj2")): {
+        "题干": {
             "0": fz(str(i), "l1"),
             "1": fz(str(i), "l2"),
             "2": fz(str(i), "l3"),
